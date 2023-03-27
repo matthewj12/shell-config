@@ -1,0 +1,2 @@
+alias h='python3 ~/desktop/cum.py'
+alias d='pmset displaysleepnow'
