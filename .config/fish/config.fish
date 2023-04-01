@@ -1,0 +1,1 @@
+alias d='pmset displaysleepnow'
